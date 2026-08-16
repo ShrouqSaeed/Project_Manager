@@ -1,0 +1,1 @@
+yes|E:\C#\Event_Project_Demo-KN\Event_Project_Demo-KN\bin\Debug\net10.0-windows\gifs\yes.gif

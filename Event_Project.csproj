@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>JOE_Event_Demo</RootNamespace>
+    <AssemblyName>JOE_Event_Demo</AssemblyName>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <!-- Ignore the old project folders so they don't cause duplicate conflicts -->
+  <ItemGroup>
+    <Compile Remove="event_demo_JOE\**" />
+    <Compile Remove="Big_Python_Projects\**" />
+    <EmbeddedResource Remove="event_demo_JOE\**" />
+    <EmbeddedResource Remove="Big_Python_Projects\**" />
+    <None Remove="event_demo_JOE\**" />
+    <None Remove="Big_Python_Projects\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.1" />
+  </ItemGroup>
+
+</Project>
