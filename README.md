@@ -8,7 +8,7 @@ A desktop application developed with C# and .NET for managing events, projects, 
 
 GitHub Repository:
 
-https://github.com/Kerolosnady1/Project_Manager
+https://github.com/ShrouqSaeed/Project_Manager
 
 ---
 
@@ -226,19 +226,11 @@ This project demonstrates practical experience in:
 
 # 👨‍💻 Author
 
-### Kerolos Nady
+### Shrouq Saeed
 
 GitHub:
 
-https://github.com/Kerolosnady1
-
-LinkedIn:
-
-https://www.linkedin.com/in/kerolos-farag-3a8378311
-
-Portfolio:
-
-https://my-portfolio-8xc1.onrender.com/
+https://github.com/ShrouqSaeed
 
 ---
 
